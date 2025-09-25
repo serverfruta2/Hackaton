@@ -9,9 +9,10 @@ git clone https://github.com/usuario/hackaton-trivia.git
 cd Hackaton
 
 
-Asignar permisos al archivo de progreso
+Crear el archivo de progreso y asignar permisos
 
-chmod 666 hackaton/progreso.json
+touch www/progreso.json
+chmod 666 www/progreso.json
 
 
 Levantar el contenedor
