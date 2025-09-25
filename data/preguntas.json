@@ -1,0 +1,104 @@
+{
+  "categorias": [
+    {
+      "nombre": "Programación",
+      "preguntas": [
+        {"pregunta":"¿Qué lenguaje se usa principalmente para desarrollo web frontend?","opciones":["Python","HTML","C++","Java"],"correcta":1},
+        {"pregunta":"¿Qué significa 'OOP'?","opciones":["Open Oriented Programming","Object-Oriented Programming","Only One Program","Open Office Protocol"],"correcta":1},
+        {"pregunta":"¿Qué es un array?","opciones":["Variable","Lista de elementos","Función","Clase"],"correcta":1},
+        {"pregunta":"¿Qué es una función recursiva?","opciones":["Una función que se llama a sí misma","Una función que no retorna","Una variable","Una condición"],"correcta":0},
+        {"pregunta":"¿Qué lenguaje se ejecuta en navegador?","opciones":["C#","JavaScript","PHP","Python"],"correcta":1}
+      ]
+    },
+    {
+      "nombre": "Redes",
+      "preguntas": [
+        {"pregunta":"¿Qué significa LAN?","opciones":["Local Area Network","Large Area Network","Light Area Network","Logical Area Network"],"correcta":0},
+        {"pregunta":"¿Qué protocolo se usa para enviar emails?","opciones":["HTTP","SMTP","FTP","SSH"],"correcta":1},
+        {"pregunta":"¿Qué es un router?","opciones":["Dispositivo que dirige paquetes","Lenguaje de programación","Sistema operativo","Cable de red"],"correcta":0},
+        {"pregunta":"¿Qué puerto usa HTTP por defecto?","opciones":["80","21","443","22"],"correcta":0},
+        {"pregunta":"¿Qué significa IP?","opciones":["Internet Provider","Internet Protocol","Internal Protocol","Interface Program"],"correcta":1}
+      ]
+    },
+    {
+      "nombre": "Bases de Datos",
+      "preguntas": [
+        {"pregunta":"¿Qué es SQL?","opciones":["Lenguaje de programación","Lenguaje de consultas","Sistema operativo","Servidor web"],"correcta":1},
+        {"pregunta":"¿Qué es una clave primaria?","opciones":["Campo único que identifica","Un índice","Tabla","Variable"],"correcta":0},
+        {"pregunta":"¿Qué comando SQL elimina datos?","opciones":["DELETE","DROP","REMOVE","DESTROY"],"correcta":0},
+        {"pregunta":"¿Qué comando SQL muestra datos?","opciones":["SHOW","SELECT","LIST","DISPLAY"],"correcta":1},
+        {"pregunta":"¿Qué es normalización?","opciones":["Optimización de consultas","Organización de datos para evitar redundancia","Un tipo de base de datos","Una variable"],"correcta":1}
+      ]
+    },
+    {
+      "nombre": "Seguridad",
+      "preguntas": [
+        {"pregunta":"¿Qué es un firewall?","opciones":["Software o hardware de protección","Lenguaje de programación","Virus","Red"],"correcta":0},
+        {"pregunta":"¿Qué significa HTTPS?","opciones":["HyperText Transfer Protocol Secure","HyperText Transfer Protocol Standard","High Transfer Protocol Secure","High Text Transfer Protocol"],"correcta":0},
+        {"pregunta":"¿Qué es phishing?","opciones":["Suplantación de identidad","Ataque físico","Lenguaje de programación","Un virus"],"correcta":0},
+        {"pregunta":"¿Qué es un antivirus?","opciones":["Programa para detectar malware","Lenguaje de programación","Cable de red","Base de datos"],"correcta":0},
+        {"pregunta":"¿Qué significa VPN?","opciones":["Virtual Private Network","Virtual Public Network","Variable Private Network","Virtual Program Network"],"correcta":0}
+      ]
+    },
+    {
+      "nombre": "Sistemas Operativos",
+      "preguntas": [
+        {"pregunta":"¿Qué es Linux?","opciones":["Sistema operativo","Lenguaje","Hardware","Aplicación"],"correcta":0},
+        {"pregunta":"¿Qué es un kernel?","opciones":["Núcleo del sistema operativo","Programa","Lenguaje","Virus"],"correcta":0},
+        {"pregunta":"¿Qué significa GUI?","opciones":["Graphical User Interface","General User Interface","General Unified Interface","Graphical Universal Interface"],"correcta":0},
+        {"pregunta":"¿Qué es multitarea?","opciones":["Ejecutar varios procesos a la vez","Un programa","Un virus","Un lenguaje"],"correcta":0},
+        {"pregunta":"¿Qué comando muestra archivos en Linux?","opciones":["ls","cd","mkdir","rm"],"correcta":0}
+      ]
+    },
+    {
+      "nombre": "Hardware",
+      "preguntas": [
+        {"pregunta":"¿Qué es CPU?","opciones":["Unidad Central de Procesos","Unidad de Control","Unidad de Programas","Unidad de Conexión"],"correcta":0},
+        {"pregunta":"¿Qué es RAM?","opciones":["Memoria volátil","Memoria permanente","Disco","Procesador"],"correcta":0},
+        {"pregunta":"¿Qué significa SSD?","opciones":["Solid State Drive","Solid Storage Disk","Super Speed Disk","System State Drive"],"correcta":0},
+        {"pregunta":"¿Qué es GPU?","opciones":["Procesador gráfico","Procesador central","Memoria","Disco"],"correcta":0},
+        {"pregunta":"¿Qué es un bus?","opciones":["Canal de comunicación interno","Lenguaje de programación","Procesador","Sistema operativo"],"correcta":0}
+      ]
+    },
+    {
+      "nombre": "Internet",
+      "preguntas": [
+        {"pregunta":"¿Qué es un navegador?","opciones":["Programa para ver páginas web","Servidor","Lenguaje","Base de datos"],"correcta":0},
+        {"pregunta":"¿Qué es URL?","opciones":["Localizador de Recursos","Lenguaje","Servidor","Protocolo"],"correcta":0},
+        {"pregunta":"¿Qué significa HTTP?","opciones":["HyperText Transfer Protocol","HyperText Transfer Program","High Transfer Protocol","Hyper Transfer Text Protocol"],"correcta":0},
+        {"pregunta":"¿Qué es DNS?","opciones":["Sistema de nombres de dominio","Base de datos","Lenguaje","Servidor"],"correcta":0},
+        {"pregunta":"¿Qué es IP?","opciones":["Internet Protocol","Intern Protocol","Internal Provider","Inter Process"],"correcta":0}
+      ]
+    },
+    {
+      "nombre": "Programación Web",
+      "preguntas": [
+        {"pregunta":"¿Qué significa CSS?","opciones":["Cascading Style Sheets","Computer Style Sheets","Central Style System","Control Style Sheets"],"correcta":0},
+        {"pregunta":"¿Qué es PHP?","opciones":["Lenguaje de programación server-side","Lenguaje client-side","Sistema operativo","Base de datos"],"correcta":0},
+        {"pregunta":"¿Qué es JavaScript?","opciones":["Lenguaje de programación","Sistema operativo","Servidor","Base de datos"],"correcta":0},
+        {"pregunta":"¿Qué es HTML?","opciones":["Lenguaje de marcado","Lenguaje de programación","Sistema operativo","Base de datos"],"correcta":0},
+        {"pregunta":"¿Qué es API?","opciones":["Interfaz de programación","Sistema operativo","Lenguaje","Servidor"],"correcta":0}
+      ]
+    },
+    {
+      "nombre": "Algoritmos",
+      "preguntas": [
+        {"pregunta":"¿Qué es un algoritmo?","opciones":["Conjunto de instrucciones","Variable","Función","Clase"],"correcta":0},
+        {"pregunta":"¿Qué es recursión?","opciones":["Función que se llama a sí misma","Variable","Clase","Loop"],"correcta":0},
+        {"pregunta":"¿Qué es un bucle?","opciones":["Estructura repetitiva","Variable","Función","Clase"],"correcta":0},
+        {"pregunta":"¿Qué es un pseudocódigo?","opciones":["Representación simplificada de un algoritmo","Lenguaje de programación","Servidor","Base de datos"],"correcta":0},
+        {"pregunta":"¿Qué es un diagrama de flujo?","opciones":["Representación gráfica de un algoritmo","Lenguaje","Servidor","Base de datos"],"correcta":0}
+      ]
+    },
+    {
+      "nombre": "Inteligencia Artificial",
+      "preguntas": [
+        {"pregunta":"¿Qué es Machine Learning?","opciones":["Aprendizaje automático","Lenguaje de programación","Servidor","Base de datos"],"correcta":0},
+        {"pregunta":"¿Qué es NLP?","opciones":["Procesamiento de lenguaje natural","Lenguaje de programación","Servidor","Base de datos"],"correcta":0},
+        {"pregunta":"¿Qué es una red neuronal?","opciones":["Modelo inspirado en el cerebro","Lenguaje de programación","Servidor","Base de datos"],"correcta":0},
+        {"pregunta":"¿Qué es un agente inteligente?","opciones":["Entidad que toma decisiones","Lenguaje de programación","Servidor","Base de datos"],"correcta":0},
+        {"pregunta":"¿Qué es deep learning?","opciones":["Aprendizaje profundo","Lenguaje de programación","Servidor","Base de datos"],"correcta":0}
+      ]
+    }
+  ]
+}

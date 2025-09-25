@@ -1,0 +1,47 @@
+body {
+    background: linear-gradient(to bottom, #0b0c10, #1f2833);
+    font-family: 'Press Start 2P', cursive;
+    color: #fff;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+/* Títulos */
+h1, h2 {
+    color: #ff004f;
+    text-shadow: 2px 2px #00ffe4, 4px 4px #ff004f;
+}
+
+/* Contenedores */
+#categoria-container, #pregunta-container {
+    margin: 30px auto;
+    padding: 20px;
+    border: 3px solid #00ffe4;
+    border-radius: 15px;
+    width: 80%;
+    max-width: 800px;
+    background: rgba(15,15,15,0.7);
+    box-shadow: 0 0 15px #ff004f, 0 0 30px #00ffe4 inset;
+}
+
+/* Botones tipo tripulante */
+button {
+    padding: 10px 20px;
+    margin: 10px;
+    font-family: 'Press Start 2P', cursive;
+    font-size: 0.8rem;
+    color: #fff;
+    background: #ff004f;
+    border: 3px solid #00ffe4;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+button:hover {
+    background: #00ffe4;
+    color: #000;
+    transform: translateY(-3px);
+    box-shadow: 0 0 10px #ff004f, 0 0 20px #00ffe4;
+}
