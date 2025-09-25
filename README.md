@@ -11,7 +11,17 @@ cd Hackaton
 
 Crear el archivo de progreso y asignar permisos
 
-touch www/progreso.json
+touch www/progreso.json 
+contenido: 
+
+{
+    "profesor1": 0,
+    "profesor2": 0,
+    "profesor3": 0
+}
+
+Da permisos
+
 chmod 666 www/progreso.json
 
 
