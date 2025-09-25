@@ -48,4 +48,4 @@ el profesor designado tendra que ejegir a un alumno para que responda la pregunt
 Una ves registrado procede a responder, si la respues es correcta la barra del front de profesor 1 avanzara 10 %(ajustable)y luego procede a profesor 2, el cual hara el mismo procedimiento al igual que el 3, 
 Al completarse una barra al 100% la trivia muestra un cartel de felicitaciones y se resetea.
 
-FIN
+###### FIN ######
